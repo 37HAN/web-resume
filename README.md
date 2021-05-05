@@ -1,2 +1,2 @@
 # web-resume
-Free web resume code
+web resume code design
